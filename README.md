@@ -23,8 +23,4 @@ Dataset Source: [Crop Prediction Dataset](https://www.kaggle.com/code/prasadchas
 1. Enter the required parameters such as soil characteristics, weather conditions, and other relevant information.
 2. Click on the "Predict" button to receive the recommended crop along with additional details such as required fertilizers, seeds, market prices, and potential yield.
 
-- [Abhishek Kumar](https://github.com/ABHIROMAN)
-- [Mansi Sahu](https://github.com/mansi2001)
 
-## Acknowledgements
-We would like to express our gratitude to SmartBridge for providing us with the opportunity to work on this project and enhance our skills in Data science, machine learning and web development.
